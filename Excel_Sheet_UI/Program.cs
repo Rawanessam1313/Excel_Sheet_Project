@@ -20,12 +20,12 @@
             await excelService.ImportDataFromExcel(filePath);
 
            
-            Console.WriteLine("Data in the database:");
-            var data = await excelService.GetAllAsync();
-            foreach (var item in data)
-            {
-                Console.WriteLine($"ID: {item.Id}, Country: {item.Country_or_region}, Score: {item.Score}");
-            }
+            //Console.WriteLine("Data in the database:");
+            //var data = await excelService.GetAllAsync();
+            //foreach (var item in data)
+            //{
+            //    Console.WriteLine($"ID: {item.Id}, Country: {item.Country_or_region}, Score: {item.Score}");
+            //}
         }
         catch (Exception ex)
         {

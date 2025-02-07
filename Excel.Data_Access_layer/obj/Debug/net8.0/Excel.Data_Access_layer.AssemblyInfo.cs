@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Excel.Data_Access_layer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65ce8b29d3e3e3b00138affedc835d36f0123a96")]
 [assembly: System.Reflection.AssemblyProductAttribute("Excel.Data_Access_layer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Excel.Data_Access_layer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

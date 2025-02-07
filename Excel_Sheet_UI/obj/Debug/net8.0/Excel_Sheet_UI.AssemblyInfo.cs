@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Excel_Sheet_UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65ce8b29d3e3e3b00138affedc835d36f0123a96")]
 [assembly: System.Reflection.AssemblyProductAttribute("Excel_Sheet_UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Excel_Sheet_UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

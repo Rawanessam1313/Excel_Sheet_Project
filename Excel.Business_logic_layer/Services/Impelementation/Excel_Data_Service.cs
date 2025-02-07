@@ -1,14 +1,15 @@
 ﻿using Excel.Data_Access_layer.DataBase;
 using Excel.Data_Access_layer.Entity;
 using Ganss.Excel;
+using NPOI.SS.Formula.Functions;
 
-public class Excel_Data_Service
+public class Excel_Data_Service : IExcel_Data_Service
 {
     private readonly Excel_Data_Repo _repo;
 
     public Excel_Data_Service()
     {
-        // إنشاء مثيل لـ Excel_Data_Repo يدويًا
+       
         var dbContext = new ApplicationDbContext();
         _repo = new Excel_Data_Repo(dbContext);
     }
@@ -25,20 +26,23 @@ public class Excel_Data_Service
     public async Task ImportDataFromExcel(string filePath)
     {
         var data = ReadExcelData(filePath);
-
+        Console.WriteLine($" Number of records read from Excel: {data.Count}");
         if (data.Count > 0)
         {
             foreach (var item in data)
             {
-                await _repo.AddAsync(item);
+            Console.WriteLine($" {item.Id}");
             }
-            Console.WriteLine("Data successfully saved to the database!");
+           
         }
         else
         {
             Console.WriteLine("No data found in the Excel file.");
         }
+
+       
     }
+   
 
     public async Task<List<Excel_Data>> GetAllAsync()
     {

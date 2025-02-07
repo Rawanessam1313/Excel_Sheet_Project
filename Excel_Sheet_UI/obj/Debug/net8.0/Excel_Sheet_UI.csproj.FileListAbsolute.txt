@@ -166,3 +166,4 @@ C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Projec
 C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel_Sheet_UI\bin\Debug\net8.0\CsvHelper.dll
 C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel_Sheet_UI\bin\Debug\net8.0\ConsoleTables.dll
 C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel_Sheet_UI\bin\Debug\net8.0\Wcwidth.dll
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel_Sheet_UI\obj\Debug\net8.0\Excel_Sheet_UI.sourcelink.json
