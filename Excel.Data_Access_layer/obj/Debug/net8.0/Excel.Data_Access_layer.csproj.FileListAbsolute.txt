@@ -1,0 +1,14 @@
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Data_Access_layer\bin\Debug\net8.0\Excel.Data_Access_layer.deps.json
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Data_Access_layer\bin\Debug\net8.0\Excel.Data_Access_layer.runtimeconfig.json
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Data_Access_layer\bin\Debug\net8.0\Excel.Data_Access_layer.dll
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Data_Access_layer\bin\Debug\net8.0\Excel.Data_Access_layer.pdb
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Data_Access_layer\obj\Debug\net8.0\Excel.Data_Access_layer.csproj.AssemblyReference.cache
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Data_Access_layer\obj\Debug\net8.0\Excel.Data_Access_layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Data_Access_layer\obj\Debug\net8.0\Excel.Data_Access_layer.AssemblyInfoInputs.cache
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Data_Access_layer\obj\Debug\net8.0\Excel.Data_Access_layer.AssemblyInfo.cs
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Data_Access_layer\obj\Debug\net8.0\Excel.Data_Access_layer.csproj.CoreCompileInputs.cache
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Data_Access_layer\obj\Debug\net8.0\Excel.Data_Access_layer.dll
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Data_Access_layer\obj\Debug\net8.0\refint\Excel.Data_Access_layer.dll
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Data_Access_layer\obj\Debug\net8.0\Excel.Data_Access_layer.pdb
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Data_Access_layer\obj\Debug\net8.0\Excel.Data_Access_layer.genruntimeconfig.cache
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Data_Access_layer\obj\Debug\net8.0\ref\Excel.Data_Access_layer.dll

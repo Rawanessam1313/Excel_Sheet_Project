@@ -1,0 +1,15 @@
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Business_logic_layer\bin\Debug\net8.0\Excel.Business_logic_layer.deps.json
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Business_logic_layer\bin\Debug\net8.0\Excel.Business_logic_layer.dll
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Business_logic_layer\bin\Debug\net8.0\Excel.Business_logic_layer.pdb
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Business_logic_layer\bin\Debug\net8.0\Excel.Data_Access_layer.dll
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Business_logic_layer\bin\Debug\net8.0\Excel.Data_Access_layer.pdb
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Business_logic_layer\obj\Debug\net8.0\Excel.Business_logic_layer.csproj.AssemblyReference.cache
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Business_logic_layer\obj\Debug\net8.0\Excel.Business_logic_layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Business_logic_layer\obj\Debug\net8.0\Excel.Business_logic_layer.AssemblyInfoInputs.cache
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Business_logic_layer\obj\Debug\net8.0\Excel.Business_logic_layer.AssemblyInfo.cs
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Business_logic_layer\obj\Debug\net8.0\Excel.Business_logic_layer.csproj.CoreCompileInputs.cache
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Business_logic_layer\obj\Debug\net8.0\Excel.Bu.B10C5D99.Up2Date
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Business_logic_layer\obj\Debug\net8.0\Excel.Business_logic_layer.dll
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Business_logic_layer\obj\Debug\net8.0\refint\Excel.Business_logic_layer.dll
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Business_logic_layer\obj\Debug\net8.0\Excel.Business_logic_layer.pdb
+C:\Users\Rawan\OneDrive\Desktop\تاسكات المبادره\Excel_Sheet_Project2\Excel.Business_logic_layer\obj\Debug\net8.0\ref\Excel.Business_logic_layer.dll

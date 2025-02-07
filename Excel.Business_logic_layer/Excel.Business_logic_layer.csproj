@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="33.0.1" />
+    <PackageReference Include="ExcelDataReader" Version="3.7.0" />
+    <PackageReference Include="ExcelMapper" Version="5.2.598" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Excel.Data_Access_layer\Excel.Data_Access_layer.csproj" />
+  </ItemGroup>
+
+</Project>
